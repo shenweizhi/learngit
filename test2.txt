@@ -2,4 +2,3 @@ modify on master
 this is test2 on branch dev
 hello aBranch修改
 modify by feature1 two
-aBranch合并撤销测试
